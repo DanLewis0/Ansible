@@ -1,0 +1,6 @@
+---
+- name: envoie un message
+
+  win_msg:
+    display_second: 60
+    msg: Ceci est un message envoyé depuis Ansible AWX
