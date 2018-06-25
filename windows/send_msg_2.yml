@@ -1,5 +1,5 @@
 ---
-- name: envoie un message
+- name: envoi un message
 
   win_msg:
     display_second: 60
